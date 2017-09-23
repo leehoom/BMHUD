@@ -1,5 +1,5 @@
 # BMHUD
-> 对MBProgressHUD的一次对业务的封装。
+> 对MBProgressHUD基于业务的封装。
 
 ```c
 #pragma mark - 添加到窗口 屏蔽事件
